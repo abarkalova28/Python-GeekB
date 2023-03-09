@@ -1,0 +1,5 @@
+a = int(input()) 
+katya = int((a/3)*2)
+petya = int((katya/2)/2)
+serega = int(petya)
+print(petya, katya, serega)
