@@ -1,4 +1,4 @@
-num = int(input("Введите трехзначное число: "))
+num = int(input("Введите трёхзначное число: "))
 
 hundreds = num // 100
 tens = (num // 10) % 10
